@@ -165,22 +165,22 @@ Conheça todos os especialistas:
 
 Aproveite esta oportunidade e garanta sua vaga agora:`
   },
-  {
+{
   categoria: "Tabelas nutricionais",
-  texto: `PROSTENVITA 
+  texto: `PROSTENVITA
 
 <a href="https://drive.google.com/file/d/1Ud9yLpY6_xHW5wgmy8C0vkpFTJOV92nv/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
 </a>`
-  },
-  {
+},
+{
   categoria: "Tabelas nutricionais",
   texto: `EROSVITA
 
 <a href="https://drive.google.com/file/d/12_nR-CzI_18sV6W8jsdwiScngQIIAjai/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
 </a>`
-  },
+},
   {
   categoria: "Msg de interação Suplementos",
   texto: `SB4
