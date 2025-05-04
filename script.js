@@ -191,11 +191,7 @@ Você sabia?
 
 “Os presentes resultados sugeriram que a ingestão diária de extrato de laranja moro foi capaz de reduzir todos os parâmetros avaliados, incluindo peso corporal, IMC, circunferência da cintura e quadril.”
 
-Tá esperando o que para garantir seus POTES DE SB4?
-
-a href="" target="_blank">
-Clique aqui para visualizar a tabela nutricional
-</a>`
+Tá esperando o que para garantir seus POTES DE SB4?`
   },
   {
     categoria: "Parabéns",
