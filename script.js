@@ -181,7 +181,7 @@ a href="https://drive.google.com/file/d/12_nR-CzI_18sV6W8jsdwiScngQIIAjai/view?u
 Clique aqui para visualizar a tabela nutricional
 </a>`
   },
-{
+  {
   categoria: "Msg de interação Suplementos",
   texto: `SB4
 
@@ -196,9 +196,7 @@ Tá esperando o que para garantir seus POTES DE SB4?
 a href="" target="_blank">
 Clique aqui para visualizar a tabela nutricional
 </a>`
-}
-},
-
+  },
   {
     categoria: "Parabéns",
     texto: `Parabéns pela sua conquista!!! 🎉
