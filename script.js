@@ -354,13 +354,18 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   categoria: "Msg de interação Suplementos",
   texto: `Belavita; Mensagem 2:
 
-Com o BelaVita Skincare você tem uma chance única de conseguir tudo que você precisa para ter uma pele saudável, com a combinação na quantidade ideal de Peptídeos Bioativos de Colágeno Hidrolisado de Peso Molecular Médio de 2kDa VERISOL®, Vitamina C, Vitamina A, Vitamina E, Vitamina B5, Biotina e Zinco.
+*Se você está em busca de ter*:
 
-💆Manutenção e saúde da pele;
-💧 Melhora na hidratação e elasticidade da pele;
-💪Ação antioxidante contra os danos causados pelos radicais livres.
+✅ Sua pele mais firme, com mais viço e com menos marquinhas do tempo. 
 
-Fale com a nossa vendedora e aproveite a promoção! 👇🏻`
+✅ Você com autoestima elevada, confiança, sendo elogiada sempre pela pele durinha e macia que você tem.
+
+✅ Mesmo sem precisar gastar rios de dinheiro com botox e coisas parecidas, procedimentos estéticos que custam milhares de reais…
+
+Você não pode ficar de fora da Campanha! 
+
+
+Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
