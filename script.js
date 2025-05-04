@@ -337,18 +337,14 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   categoria: "Msg de interação Suplementos",
   texto: `Belavita; Mensagem 1:
 
-*Se você está em busca de ter*:
+O Belavita possui ação rápida e estudos comprovam que em apenas 4 semanas você já pode ter mais elasticidade na pele e eliminar as rugas.
 
-✅ Sua pele mais firme, com mais viço e com menos marquinhas do tempo. 
+💆🏻‍♀️‍ E nas próximas semanas já sente sua pele mais jovem e bonita…
+💅 Com unhas crescendo mais fortes e bonitas;
+👩🏼‍🦳 Cabelos crescem brilhosos e bonitos;
+💃 Com celulites começando a diminuir;
 
-✅ Você com autoestima elevada, confiança, sendo elogiada sempre pela pele durinha e macia que você tem.
-
-✅ Mesmo sem precisar gastar rios de dinheiro com botox e coisas parecidas, procedimentos estéticos que custam milhares de reais…
-
-Você não pode ficar de fora da Campanha!
-
-
-Clique no link abaixo e fale com a vendedora.👇🏻`
+Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
