@@ -217,10 +217,11 @@ Clique no link para ser atendido agora: https://lp.vita-science.com/AtendimentoV
   texto: `Página para consultas 
 
 <a href="https://vitascience.com/" target="_blank">
-Clique aqui para visualizar a tabela nutricional
+Clique aqui para acessar o site oficial da Vitascience
 </a>`
 }
 ];
+
 
 const faqContainer = document.getElementById('faqContainer');
 const searchInput = document.getElementById('searchInput');
