@@ -211,7 +211,15 @@ Entendo, temos diversos pacotes, justamente para caber em todo tipo de orçament
 Olá, tudo bem? Eu sou a [seu nome]. Nosso suporte é exclusivo pelo WhatsApp, lá todas as conversas ficam registradas...
 
 Clique no link para ser atendido agora: https://lp.vita-science.com/AtendimentoVITA2.0`
-  }
+  },
+  {
+  categoria: "PV Vitascience",
+  texto: `Página para consultas 
+
+<a href="https://vitascience.com/" target="_blank">
+Clique aqui para visualizar a tabela nutricional
+</a>`
+}
 ];
 
 const faqContainer = document.getElementById('faqContainer');
