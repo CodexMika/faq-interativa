@@ -165,22 +165,22 @@ Conheça todos os especialistas:
 
 Aproveite esta oportunidade e garanta sua vaga agora:`
   },
-{
+  {
   categoria: "Tabelas nutricionais",
   texto: `PROSTENVITA
 
 <a href="https://drive.google.com/file/d/1Ud9yLpY6_xHW5wgmy8C0vkpFTJOV92nv/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
 </a>`
-},
-{
+ },
+ {
   categoria: "Tabelas nutricionais",
   texto: `EROSVITA
 
 <a href="https://drive.google.com/file/d/12_nR-CzI_18sV6W8jsdwiScngQIIAjai/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
 </a>`
-},
+  },
   {
   categoria: "Msg de interação Suplementos",
   texto: `SB4; Mensagem 1:
@@ -314,7 +314,7 @@ O SB4 é um suco que é formado por uma receita de 4 ingredientes 100% naturais 
 Se você deseja adquirir o seu suco SB4, é só apertar no link logo abaixo conversar com a sua vendedora e aproveitar:`
   },
   {
-  categoria: "11",
+  categoria: "Msg de interação Suplementos",
   texto: `SB4; Mensagem 11:
 
 🌿O Poder da Fórmula SB4 para um Emagrecimento Saudável!
