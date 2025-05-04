@@ -6,16 +6,16 @@ const faqs = [
 Olá, meu nome é Mikaela, sou sua consultora Vitascience e estou aqui para te ajudar e tirar suas dúvidas sobre as ofertas da Campanha de Aniversário!
 
 Sejam todos bem-vindos. Desejo um dia abençoado para todos nós 🙏.
-Vamos lá?
-`
+Vamos lá?`
   },
   {
   categoria: "Regras",
-  texto: `Regras do grupo
+  texto: `Mensagem para spam
 
 
 Olá, gostaria da atenção de vocês para as regras de comportamento deste grupo.
 Ficam terminantemente *🚫PROIBIDAS* qualquer divulgação ou postagem (texto, vídeo, foto e links) referente a:
+
 🚫 *Qualquer produto/serviço para venda;*
 🚫*Links*
 🚫 *Qualquer tipo de ofensa, direta ou indireta, às pessoas que participam ou não deste grupo;*
@@ -166,14 +166,39 @@ Conheça todos os especialistas:
 Aproveite esta oportunidade e garanta sua vaga agora:`
   },
   {
-  categoria: "Tabelas nutricionais dos suplementos",
+  categoria: "Tabelas nutricionais",
   texto: `PROSTENVITA 
 
 a href="https://drive.google.com/file/d/1Ud9yLpY6_xHW5wgmy8C0vkpFTJOV92nv/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
 </a>`
   },
+  {
+  categoria: "Tabelas nutricionais",
+  texto: `EROSVITA
+
+a href="https://drive.google.com/file/d/12_nR-CzI_18sV6W8jsdwiScngQIIAjai/view?usp=drivesdk" target="_blank">
+Clique aqui para visualizar a tabela nutricional
+</a>`
   },
+{
+  categoria: "Msg de interação Suplementos",
+  texto: `SB4
+
+*Homem também cuida da saúde!*
+
+Você sabia?
+
+“Os presentes resultados sugeriram que a ingestão diária de extrato de laranja moro foi capaz de reduzir todos os parâmetros avaliados, incluindo peso corporal, IMC, circunferência da cintura e quadril.”
+
+Tá esperando o que para garantir seus POTES DE SB4?
+
+a href="" target="_blank">
+Clique aqui para visualizar a tabela nutricional
+</a>`
+}
+},
+
   {
     categoria: "Parabéns",
     texto: `Parabéns pela sua conquista!!! 🎉
