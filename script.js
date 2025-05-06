@@ -1,7 +1,7 @@
 const faqs = [
   {
   categoria: "Mensagem de Apresentação",
-  texto: `### Utilizar sempre que abrir os grupos
+  texto: `### Utilizar sempre que abrir os grupos:
 
 Olá, meu nome é Mikaela, sou sua consultora Vitascience e estou aqui para te ajudar e tirar suas dúvidas sobre as ofertas da Campanha de Aniversário!
 
@@ -10,7 +10,7 @@ Vamos lá?`
   },
   {
   categoria: "Regras",
-  texto: `### Mensagem para spam
+  texto: `### Mensagem para spam:
 
 
 Olá, gostaria da atenção de vocês para as regras de comportamento deste grupo.
@@ -27,7 +27,7 @@ e qualquer tipo;*
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `### Mensagem 1
+  texto: `### Mensagem 1:
 
 Você já imaginou ter o acompanhamento do Dr. Dayan, a Equipe Vitascience, e vários outros profissionais da saúde como médicos, nutricionistas por um período de 1 ano*?
 
@@ -41,7 +41,7 @@ Fale com a nossa consultora (colocar o link da vendedora do grupo) e faça já a
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `### Mensagem 2
+  texto: `### Mensagem 2:
 
 *Você sabia que ao se inscrever no Programa de Acompanhamento Código da Vitalidade terá acesso à*: 👇
 
@@ -68,7 +68,7 @@ Além de…..
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `### Mensagem 3
+  texto: `### Mensagem 3:
 
 *Se você está em busca de*:
 
@@ -91,7 +91,7 @@ O código da Vitalidade vai  proporcionar conhecimento e ferramentas que vão tr
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `### Mensagem 4
+  texto: `### Mensagem 4:
 
 Quem pode se beneficiar com o curso? 
 Ele é adequado para todas as idades e condições de saúde?
@@ -110,7 +110,7 @@ No geral, o "Código da Vitalidade" é destinado a pessoas que buscam uma jornad
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `### Mensagem 5
+  texto: `### Mensagem 5:
 
 Você sabia que o Código da Vitalidade aborda questões específicas de envelhecimento e como você pode lidar com o processo de envelhecimento do corpo?
 
@@ -128,7 +128,7 @@ O curso oferece conhecimentos valiosos sobre os sistemas fundamentais do corpo e
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `### Mensagem 6
+  texto: `### Mensagem 6:
 
 É necessário ter algum conhecimento em saúde ou ciências do corpo para participar do Código da Vitalidade?
 
@@ -148,7 +148,7 @@ Fale com a nossa consultora (colocar o link da vendedora do grupo) e faça já a
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `### Mensagem 7
+  texto: `### Mensagem 7:
 
 🔥Um time com especialistas de renome para estar com você durante 1 ano.
 
@@ -167,7 +167,7 @@ Aproveite esta oportunidade e garanta sua vaga agora:`
   },
   {
   categoria: "Tabelas nutricionais",
-  texto: `### PROSTENVITA
+  texto: `### PROSTENVITA:
 
 <a href="https://drive.google.com/file/d/1Ud9yLpY6_xHW5wgmy8C0vkpFTJOV92nv/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
@@ -175,7 +175,7 @@ Clique aqui para visualizar a tabela nutricional
  },
  {
   categoria: "Tabelas nutricionais",
-  texto: `### EROSVITA
+  texto: `### EROSVITA:
 
 <a href="https://drive.google.com/file/d/12_nR-CzI_18sV6W8jsdwiScngQIIAjai/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
@@ -1137,7 +1137,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `### VITA MULHER 50+; Msg 1
+  texto: `### VITA MULHER 50+; Msg 1:
 
 *O que é o suplemento VITA MULHER 50+?*
 
@@ -1149,7 +1149,7 @@ Clique no link abaixo e fale com a consultora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `### VITA MULHER 50+; Msg 2
+  texto: `### VITA MULHER 50+; Msg 2:
 
 *Quais os principais benefícios do suplemento VITA MULHER 50+:*
 
@@ -1163,7 +1163,7 @@ Clique no link abaixo e fale com a consultora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `### VITA MULHER 50+; Msg 3
+  texto: `### VITA MULHER 50+; Msg 3:
 
 Olha o que o Vita Mulher 50+ pode fazer por você?
 
@@ -1184,7 +1184,7 @@ Clique no link abaixo e fale com a nossa consultora de saúde para garantir agor
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `### VITA MULHER 50+; Msg 4
+  texto: `### VITA MULHER 50+; Msg 4:
 
 *Você sabia que o Vita Mulher 50+ pode te ajudar a se livrar dos sintomas da Menopausa?*
 
@@ -1294,7 +1294,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "PV Vitascience",
-  texto: `### Página para consultas 
+  texto: `### Página para consultas:
 
 <a href="https://vitascience.com/" target="_blank">
 Clique aqui para acessar o site oficial da Vitascience
@@ -1360,11 +1360,9 @@ function renderFaqs(categoria, query) {
 
 function copyText(elementId) {
     const fullText = document.getElementById(elementId)?.textContent || '';
-    const lines = fullText.split('\n');
-    const filtered = lines.filter(line => !line.trim().startsWith('###'));
-    const text = filtered.join('\n').trim();
-
-    navigator.clipboard.writeText(text).then(() => {
+    // Corta tudo até o primeiro ":" depois de ###
+    const cleaned = fullText.replace(/###.*?:\s*/s, '');
+    navigator.clipboard.writeText(cleaned.trim()).then(() => {
         alert("Mensagem copiada!");
     });
 }
