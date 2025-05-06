@@ -1332,20 +1332,27 @@ function renderFaqs(categoria, query) {
     .filter(f => (categoria === "Todas" || f.categoria === categoria))
     .filter(f => f.texto.toLowerCase().includes(query))
     .forEach((f, index) => {
-      const id = `text-${index}`;
       const card = document.createElement("div");
       card.className = "faq-card";
-      const card = document.createElement("div");
-card.className = "faq-card";
-const textId = `text-${index}`;
-const card = document.createElement("div");
-card.className = "faq-card";
-const messageId = `msg-${index}`;
-card.innerHTML = `
-  <div class="faq-category">${f.categoria}</div>
-  <div class="faq-text" id="${messageId}">${f.texto}</div>
-  <button class="copy-button" onclick="copyText('${messageId}')">Copy</button>
-`;
+
+      const messageId = `msg-${index}`;
+      const textDiv = document.createElement("div");
+      textDiv.className = "faq-category";
+      textDiv.textContent = f.categoria;
+
+      const messageDiv = document.createElement("div");
+      messageDiv.className = "faq-text";
+      messageDiv.id = messageId;
+      messageDiv.textContent = f.texto;
+
+      const copyBtn = document.createElement("button");
+      copyBtn.className = "copy-button";
+      copyBtn.textContent = "Copy";
+      copyBtn.onclick = () => copyText(messageId);
+
+      card.appendChild(textDiv);
+      card.appendChild(messageDiv);
+      card.appendChild(copyBtn);
       faqContainer.appendChild(card);
     });
 }
