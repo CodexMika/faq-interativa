@@ -1335,12 +1335,13 @@ function renderFaqs(categoria, query) {
       const id = `text-${index}`;
       const card = document.createElement("div");
       card.className = "faq-card";
-      card.innerHTML = `
+      const card = document.createElement("div");
+card.className = "faq-card";
+const textId = `text-${index}`;
+card.innerHTML = `
   <div class="faq-category">${f.categoria}</div>
-  <div class="faq-text" id="${id}">
-    <div class="faq-mensagem" id="mensagem-${index}">${f.texto}</div>
-  </div>
-  <button class="copy-button" onclick="copyText('mensagem-${index}')">Copy</button>
+  <div class="faq-text" id="${textId}">${f.texto}</div>
+  <button class="copy-button" onclick="copyText('${textId}')">Copy</button>
 `;
       faqContainer.appendChild(card);
     });
