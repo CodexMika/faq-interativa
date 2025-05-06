@@ -1358,7 +1358,7 @@ function renderFaqs(categoria, query) {
 }
 
 function copyText(elementId) {
-  const text = document.getElementById(elementId).innerText;
+  const text = document.querySelector(`#${elementId}`).textContent;
   navigator.clipboard.writeText(text).then(() => {
     alert("Mensagem copiada!");
   });
