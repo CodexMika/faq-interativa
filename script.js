@@ -1360,10 +1360,9 @@ function renderFaqs(categoria, query) {
 
 function copyText(elementId) {
     const fullText = document.getElementById(elementId)?.textContent || '';
-    // Remove a linha que começa com ###
     const lines = fullText.split('\n');
-    const filtered = lines.filter(line => !line.startsWith('###'));
-    const text = filtered.join('\n');
+    const filtered = lines.filter(line => !line.trim().startsWith('###'));
+    const text = filtered.join('\n').trim();
 
     navigator.clipboard.writeText(text).then(() => {
         alert("Mensagem copiada!");
