@@ -1310,58 +1310,59 @@ const filterButtons = document.getElementById('filterButtons');
 const categorias = ["Todas", ...new Set(faqs.map(f => f.categoria))];
 
 categorias.forEach(categoria => {
-  const btn = document.createElement("button");
-  btn.textContent = categoria;
-  btn.onclick = () => {
-    document.querySelectorAll(".filters button").forEach(b => b.classList.remove("active"));
-    btn.classList.add("active");
-    renderFaqs(categoria, searchInput.value.toLowerCase());
-  };
-  if (categoria === "Todas") btn.classList.add("active");
-  filterButtons.appendChild(btn);
+    const btn = document.createElement("button");
+    btn.textContent = categoria;
+    btn.onclick = () => {
+        document.querySelectorAll(".filters button").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        renderFaqs(categoria, searchInput.value.toLowerCase());
+    };
+    if (categoria === "Todas") btn.classList.add("active");
+    filterButtons.appendChild(btn);
 });
 
 searchInput.addEventListener("input", () => {
-  const cat = document.querySelector(".filters button.active").textContent;
-  renderFaqs(cat, searchInput.value.toLowerCase());
+    const cat = document.querySelector(".filters button.active").textContent;
+    renderFaqs(cat, searchInput.value.toLowerCase());
 });
 
 function renderFaqs(categoria, query) {
-  faqContainer.innerHTML = '';
-  faqs
-    .filter(f => (categoria === "Todas" || f.categoria === categoria))
-    .filter(f => f.texto.toLowerCase().includes(query))
-    .forEach((f, index) => {
-      const card = document.createElement("div");
-      card.className = "faq-card";
+    faqContainer.innerHTML = '';
+    faqs
+        .filter(f => (categoria === "Todas" || f.categoria === categoria))
+        .filter(f => f.texto.toLowerCase().includes(query))
+        .forEach((f, index) => {
+            const card = document.createElement("div");
+            card.className = "faq-card";
 
-      const messageId = `msg-${index}`;
-      const textDiv = document.createElement("div");
-      textDiv.className = "faq-category";
-      textDiv.textContent = f.categoria;
+            const messageId = `msg-${index}`;
 
-      const messageDiv = document.createElement("div");
-      messageDiv.className = "faq-text";
-      messageDiv.id = messageId;
-      messageDiv.textContent = f.texto;
+            const textDiv = document.createElement("div");
+            textDiv.className = "faq-category";
+            textDiv.textContent = f.categoria;
 
-      const copyBtn = document.createElement("button");
-      copyBtn.className = "copy-button";
-      copyBtn.textContent = "Copy";
-      copyBtn.onclick = () => copyText(messageId);
+            const messageDiv = document.createElement("div");
+            messageDiv.className = "faq-text";
+            messageDiv.id = messageId;
+            messageDiv.textContent = f.texto;
 
-      card.appendChild(textDiv);
-      card.appendChild(messageDiv);
-      card.appendChild(copyBtn);
-      faqContainer.appendChild(card);
-    });
+            const copyBtn = document.createElement("button");
+            copyBtn.className = "copy-button";
+            copyBtn.textContent = "Copy";
+            copyBtn.onclick = () => copyText(messageId);
+
+            card.appendChild(textDiv);
+            card.appendChild(messageDiv);
+            card.appendChild(copyBtn);
+            faqContainer.appendChild(card);
+        });
 }
 
 function copyText(elementId) {
-  const text = document.querySelector(`#${elementId}`).textContent;
-  navigator.clipboard.writeText(text).then(() => {
-    alert("Mensagem copiada!");
-  });
+    const text = document.getElementById(elementId)?.textContent || '';
+    navigator.clipboard.writeText(text).then(() => {
+        alert("Mensagem copiada!");
+    });
 }
 
 renderFaqs("Todas", "");
