@@ -1,7 +1,7 @@
 const faqs = [
   {
   categoria: "Mensagem de Apresentação",
-  texto: `Utilizar sempre que abrir os grupos
+  texto: `### Utilizar sempre que abrir os grupos
 
 Olá, meu nome é Mikaela, sou sua consultora Vitascience e estou aqui para te ajudar e tirar suas dúvidas sobre as ofertas da Campanha de Aniversário!
 
@@ -10,7 +10,7 @@ Vamos lá?`
   },
   {
   categoria: "Regras",
-  texto: `Mensagem para spam
+  texto: `### Mensagem para spam
 
 
 Olá, gostaria da atenção de vocês para as regras de comportamento deste grupo.
@@ -27,7 +27,7 @@ e qualquer tipo;*
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `Mensagem 1
+  texto: `### Mensagem 1
 
 Você já imaginou ter o acompanhamento do Dr. Dayan, a Equipe Vitascience, e vários outros profissionais da saúde como médicos, nutricionistas por um período de 1 ano*?
 
@@ -41,7 +41,7 @@ Fale com a nossa consultora (colocar o link da vendedora do grupo) e faça já a
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `Mensagem 2
+  texto: `### Mensagem 2
 
 *Você sabia que ao se inscrever no Programa de Acompanhamento Código da Vitalidade terá acesso à*: 👇
 
@@ -68,7 +68,7 @@ Além de…..
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `Mensagem 3
+  texto: `### Mensagem 3
 
 *Se você está em busca de*:
 
@@ -91,7 +91,7 @@ O código da Vitalidade vai  proporcionar conhecimento e ferramentas que vão tr
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `Mensagem 4
+  texto: `### Mensagem 4
 
 Quem pode se beneficiar com o curso? 
 Ele é adequado para todas as idades e condições de saúde?
@@ -110,7 +110,7 @@ No geral, o "Código da Vitalidade" é destinado a pessoas que buscam uma jornad
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `Mensagem 5
+  texto: `### Mensagem 5
 
 Você sabia que o Código da Vitalidade aborda questões específicas de envelhecimento e como você pode lidar com o processo de envelhecimento do corpo?
 
@@ -128,7 +128,7 @@ O curso oferece conhecimentos valiosos sobre os sistemas fundamentais do corpo e
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `Mensagem 6
+  texto: `### Mensagem 6
 
 É necessário ter algum conhecimento em saúde ou ciências do corpo para participar do Código da Vitalidade?
 
@@ -148,7 +148,7 @@ Fale com a nossa consultora (colocar o link da vendedora do grupo) e faça já a
   },
   {
   categoria: "Mensagens para interação CÓD",
-  texto: `Mensagem 7
+  texto: `### Mensagem 7
 
 🔥Um time com especialistas de renome para estar com você durante 1 ano.
 
@@ -167,7 +167,7 @@ Aproveite esta oportunidade e garanta sua vaga agora:`
   },
   {
   categoria: "Tabelas nutricionais",
-  texto: `PROSTENVITA
+  texto: `### PROSTENVITA
 
 <a href="https://drive.google.com/file/d/1Ud9yLpY6_xHW5wgmy8C0vkpFTJOV92nv/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
@@ -175,7 +175,7 @@ Clique aqui para visualizar a tabela nutricional
  },
  {
   categoria: "Tabelas nutricionais",
-  texto: `EROSVITA
+  texto: `### EROSVITA
 
 <a href="https://drive.google.com/file/d/12_nR-CzI_18sV6W8jsdwiScngQIIAjai/view?usp=drivesdk" target="_blank">
 Clique aqui para visualizar a tabela nutricional
@@ -183,7 +183,7 @@ Clique aqui para visualizar a tabela nutricional
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 1:
+  texto: `### SB4; Mensagem 1:
 
 *Homem também cuida da saúde!*
 
@@ -195,7 +195,7 @@ Tá esperando o que para garantir seus POTES DE SB4?`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 2:
+  texto: `### SB4; Mensagem 2:
 
 *Você sabia?*
 
@@ -207,7 +207,7 @@ Fale com nossa vendedora`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 3:
+  texto: `### SB4; Mensagem 3:
 
 *Você sabia?*
 
@@ -217,7 +217,7 @@ O SB4 é um suplemento alimentar em pó feito com extrato de laranja, moro, geng
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 4:
+  texto: `### SB4; Mensagem 4:
 
 O SB4 age em todas as frentes do emagrecimento 👇🏻
 
@@ -231,7 +231,7 @@ Corra e garanta seu SB4 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 5:
+  texto: `### SB4; Mensagem 5:
 
 Você sabe o que significa SB4?
 Significa Seca Bucho 4, porque tem 4 efeitos emagrecedores para você secar rápido e bloquear o efeito sanfona.
@@ -240,7 +240,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 6:
+  texto: `### SB4; Mensagem 6:
 
 Você é Diabético e está com receio de tomar o SB4? 
 
@@ -255,13 +255,13 @@ Você deu um importante passo para ter uma vida com mais saúde e vitalidade.`
   },
   {
     categoria: "Objeção",
-    texto: `Está caro (suplementos)
+    texto: `### Está caro (suplementos)
 
 Entendo, temos diversos pacotes, justamente para caber em todo tipo de orçamento, nossa matéria-prima é toda natural...`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 7:
+  texto: `### SB4; Mensagem 7:
 
 Qual é o seu maior sonho quando eliminar os quilos com ajuda do Sb4?
 
@@ -275,7 +275,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 8:
+  texto: `### SB4; Mensagem 8:
 
 Meu metabolismo é muito lento e meu colesterol está bem alto. SB4 ajuda?
 
@@ -289,7 +289,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 9:
+  texto: `### SB4; Mensagem 9:
 
 Quem fez bariátrica pode fazer uso do SB4?
 
@@ -301,7 +301,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 10:
+  texto: `### SB4; Mensagem 10:
 
 *Você sabia???*
 
@@ -315,7 +315,7 @@ Se você deseja adquirir o seu suco SB4, é só apertar no link logo abaixo conv
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `SB4; Mensagem 11:
+  texto: `### SB4; Mensagem 11:
 
 🌿O Poder da Fórmula SB4 para um Emagrecimento Saudável!
 
@@ -335,7 +335,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Belavita; Mensagem 1:
+  texto: `### Belavita; Mensagem 1:
 
 O Belavita possui ação rápida e estudos comprovam que em apenas 4 semanas você já pode ter mais elasticidade na pele e eliminar as rugas.
 
@@ -348,7 +348,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Belavita; Mensagem 2:
+  texto: `### Belavita; Mensagem 2:
 
 *Se você está em busca de ter*:
 
@@ -365,7 +365,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Belavita; Mensagem 3:
+  texto: `### Belavita; Mensagem 3:
 
 Com o BelaVita Skincare você tem uma chance única de conseguir tudo que você precisa para ter uma pele saudável, com a combinação na quantidade ideal de Peptídeos Bioativos de Colágeno Hidrolisado de Peso Molecular Médio de 2kDa VERISOL®, Vitamina C, Vitamina A, Vitamina E, Vitamina B5, Biotina e Zinco.
 
@@ -377,7 +377,7 @@ Fale com a nossa vendedora e aproveite a promoção! 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Belavita; Mensagem 4:
+  texto: `### Belavita; Mensagem 4:
 
 Mensagem 4:
 
@@ -391,7 +391,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Multivita; Mensagem 1:
+  texto: `### Multivita; Mensagem 1:
 
 Olha o que o multivita (MULHER) faz para você?*
 
@@ -408,7 +408,7 @@ A próxima a ficar de bem com a vida pode ser você!
   },
  {
   categoria: "Msg de interação Suplementos",
-  texto: `Multivita; Mensagem 2:
+  texto: `### Multivita; Mensagem 2:
 
 *O que você espera alcançar com o Multivita?* 🤔
 1) Ossos mais fortes;
@@ -420,7 +420,7 @@ Fale com a nossa vendedora e aproveite a promoção! 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Multivita; Mensagem 3:
+  texto: `### Multivita; Mensagem 3:
 
 *Ele é perfeito para aumentar o libido, a energia masculina e a força.*
 Em apenas 2 cápsulas por dia, você tem substâncias terapêuticas, ainda mais importantes para o seu corpo. 
@@ -430,7 +430,7 @@ Em apenas 2 cápsulas por dia, você tem substâncias terapêuticas, ainda mais 
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Multivita; Mensagem 4:
+  texto: `### Multivita; Mensagem 4:
 
 *Você já viu um SUPLEMENTO 100% PURO E 200% CONCENTRADO?*
 Isso você só encontra aqui!
@@ -440,7 +440,7 @@ Chame (coloque o @da vendedora) e não fique de fora!`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Ômegavita; Mensagem 1: 
+  texto: `### Ômegavita; Mensagem 1: 
 
 *Você sabia?*
 
@@ -456,7 +456,7 @@ Fale com a nossa vendedora e aproveite a promoção! 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Ômegavita; Mensagem 2:
+  texto: `### Ômegavita; Mensagem 2:
 
 *VOCÊ ANDA ESQUECENDO DAS COISAS COM FREQUÊNCIA*?
 
@@ -473,7 +473,7 @@ Fale com a nossa vendedora e aproveite a promoção! 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Ômegavita; Mensagem 3:
+  texto: `### Ômegavita; Mensagem 3:
 
 Você sabe do que é composto a cápsula do Ômegavita?
 
@@ -485,7 +485,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Magvita; Mensagem 1:
+  texto: `### Magvita; Mensagem 1:
 
 *Reforme a sua saúde e imunidade com o Magvita*
 
@@ -502,7 +502,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Magvita; Mensagem 2:
+  texto: `### Magvita; Mensagem 2:
 
 *Qual é a importância do Magnésio e do ácido málico em nosso organismo*?
 
@@ -519,7 +519,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Magvita; Mensagem 3:
+  texto: `### Magvita; Mensagem 3:
 
 *Você sabia que o Magvita*?
 
@@ -532,7 +532,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Magvita; Mensagem 3:
+  texto: `### Magvita; Mensagem 3:
 
 Você conhece os benefícios do MagVita?
 
@@ -551,7 +551,7 @@ Fale com a nossa vendedora e aproveite a promoção! 👇🏻`
 
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Magvita; Mensagem 4:
+  texto: `### Magvita; Mensagem 4:
 
 O Belavita possui ação rápida e estudos comprovam que em apenas 4 semanas você já pode ter mais elasticidade na pele e eliminar as rugas.
 
@@ -564,7 +564,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Revitaliza; Mensagem 1:
+  texto: `### Revitaliza; Mensagem 1:
 
 Revitaliza é um suplemento alimentar com a combinação dos principais nutrientes para despertar a verdadeira beleza dos seus cabelos e unhas de dentro para fora.
 
@@ -577,7 +577,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Revitaliza; Mensagem 2:
+  texto: `### Revitaliza; Mensagem 2:
 
 *Você conhece  os benefícios do Revitaliza?*
 
@@ -590,7 +590,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Revitaliza; Mensagem 3:
+  texto: `### Revitaliza; Mensagem 3:
 
 *Revele a sua verdadeira beleza de dentro para fora com a fórmula exclusiva do  Revitaliza!*
 
@@ -603,7 +603,7 @@ Fale com a vendedora pelo link abaixo e desperte a sua melhor versão com a nutr
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Glicovitan; Mensagem 1:
+  texto: `### Glicovitan; Mensagem 1:
 
 *O Glicovitan é o segredo para equilibrar sua vida e controlar a diabetes.*
 
@@ -617,7 +617,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Glicovitan; Mensagem 2:
+  texto: `### Glicovitan; Mensagem 2:
 
 *Transforme sua jornada contra a diabetes em um doce caminho de bem-estar com o nosso revolucionário suplemento Glicovitan Caps*.
 
@@ -630,7 +630,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Glicovitan; Mensagem 3:
+  texto: `### Glicovitan; Mensagem 3:
 
 *Você sabia que com apenas três cápsulas do Glicovitan Caps por dia você conseguirá*:
 
@@ -644,7 +644,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Clarivita; Mensagem 1:
+  texto: `### Clarivita; Mensagem 1:
 
 *Proteja seus olhos, ilumine sua visão com o Clarivita*!
 
@@ -659,7 +659,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Clarivita; Mensagem 3:
+  texto: `### Clarivita; Mensagem 3:
 
 *Você conhece os efeitos do Clarivita*?
 
@@ -677,7 +677,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Cucurvita; Mensagem 1:
+  texto: `### Cucurvita; Mensagem 1:
 
 
 *Sou hipertenso! Posso fazer uso do Curcuvita*?
@@ -686,7 +686,7 @@ Pessoas que possuem hipertensão podem se beneficiar com o consumo do Curcuvita.
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Cucurvita; Mensagem 2:
+  texto: `### Cucurvita; Mensagem 2:
 
 *Liberte-se da inflamação e abrace a vitalidade*!
 
@@ -700,7 +700,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Cucurvita; Mensagem 3:
+  texto: `### Cucurvita; Mensagem 3:
 
 *Sou diabético. Posso usar o Curcuvita*?
 
@@ -712,7 +712,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Neurovita; Mensagem 1:
+  texto: `### Neurovita; Mensagem 1:
 
 *O que é o Neurovita*?
 
@@ -724,7 +724,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Neurovita; Mensagem 2:
+  texto: `### Neurovita; Mensagem 2:
 
 *Memória afiada, foco imbatível*! 
 
@@ -739,7 +739,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Neurovita; Mensagem 3:
+  texto: `### Neurovita; Mensagem 3:
 
 *Desperte o poder da sua mente com nosso suplemento único, Neurovita*!
 
@@ -753,7 +753,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 1:
+  texto: `### Artivita; Mensagem 1:
 
 *Você sabia que*?
 
@@ -769,7 +769,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 2:
+  texto: `### Artivita; Mensagem 2:
 
 *Descubra como você pode viver uma vida sem limitações, com articulações fortes e saudáveis, aproveitando todo o potencial do Artivita*
 
@@ -785,7 +785,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 3:
+  texto: `### Artivita; Mensagem 3:
 
 *Qual a finalidade prática/benefícios do Colágeno tipo 2 presente na fórmula do Artivita*?
 
@@ -800,7 +800,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 4:
+  texto: `### Artivita; Mensagem 4:
 
 O que é Artivita?
 
@@ -810,7 +810,7 @@ Sua avançada tecnologia concentra, em uma única cápsula, 40mg de colágeno ti
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 5:
+  texto: `### Artivita; Mensagem 5:
 
 Como devo ingerir o Artivita?
 
@@ -822,7 +822,7 @@ Mas independente do horário, o Artivita terá efeitos benéficos no seu corpo!`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 6:
+  texto: `### Artivita; Mensagem 6:
 
 Quem pode se beneficiar do Artivita?
 
@@ -832,7 +832,7 @@ Quem pode se beneficiar do Artivita?
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 7:
+  texto: `### Artivita; Mensagem 7:
 
 O Artivita engorda?
 
@@ -845,7 +845,7 @@ Se essa era uma de suas preocupações, agora já não é mais! 🤩`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 8:
+  texto: `### Artivita; Mensagem 8:
 
 💚Descubra como você pode viver uma vida sem limitações, com articulações fortes e saudáveis, aproveitando todo o potencial do Artiivita
 
@@ -866,7 +866,7 @@ O Vitacalm Gotas é ideal para que você desfrute de noites tranquilas e recuper
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Vitacalm Night gotas, Mensagem 2:
+  texto: `### Vitacalm Night gotas, Mensagem 2:
 
 *O sono perfeito em gotas*!
 
@@ -878,7 +878,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Vitacalm Night gotas, Mensagem 3:
+  texto: `### Vitacalm Night gotas, Mensagem 3:
 
 *Quais são os ingredientes principais e por que eles foram escolhidos*?
 O VitaCalm Gotas é um suplemento desenvolvido para auxiliar na indução do sono e melhorar a qualidade do sono com somente uma gota. É composto por melatonina.
@@ -895,7 +895,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Artivita; Mensagem 1:
+  texto: `### Artivita; Mensagem 1:
 
 *Você sabia que*?
 
@@ -911,7 +911,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Clarivita; Mensagem 2:
+  texto: `### Clarivita; Mensagem 2:
 
 *O que é o Clarivita*?
 
@@ -921,7 +921,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Vita D; Mensagem 1:
+  texto: `### Vita D; Mensagem 1:
 
 *Sua dose de sol ideal em gotas*.
 
@@ -936,7 +936,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Vita D; Mensagem 2:
+  texto: `### Vita D; Mensagem 2:
   
 *Você sabia que*?
 
@@ -953,7 +953,7 @@ Clique no link abaixo e garanta seu Vita D com a vendedora 👇`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Vita D; Mensagem 3:
+  texto: `### Vita D; Mensagem 3:
 
 *Com uma formulação exclusiva o Vita D concentrate fornece 2000 UI por gota, vai te ajudar a*: 
 
@@ -967,7 +967,7 @@ Clique no link abaixo e garanta seu Vita D com a vendedora 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Floravitan Fibras, Mensagem 1:
+  texto: `### Floravitan Fibras, Mensagem 1:
 
 *O que é o Floravitan Fibras*? 
 
@@ -976,7 +976,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Floravitan Fibras, Mensagem 2:
+  texto: `### Floravitan Fibras, Mensagem 2:
 
 *Você conhece os benefícios do Floravitan Fibras*? 
 
@@ -991,7 +991,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Floravitan Fibras, Mensagem 3:
+  texto: `### Floravitan Fibras, Mensagem 3:
 
 *Por que escolher o Floravitan Fibras em vez de outros suplementos*? 
 
@@ -1001,7 +1001,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Lev Drink; Mensagem 1:
+  texto: `### Lev Drink; Mensagem 1:
 
 *O que é o Lev-Drink*? 
 
@@ -1010,7 +1010,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Lev Drink; Mensagem 2:
+  texto: `### Lev Drink; Mensagem 2:
 
 *Você conhece os benefícios do Lev Drink*?
 
@@ -1027,7 +1027,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Zenpress; Mensagem 1:
+  texto: `### Zenpress; Mensagem 1:
 
 *O que é o Zenpress*? 
 
@@ -1055,7 +1055,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Zenpress; Mensagem 3:
+  texto: `### Zenpress; Mensagem 3:
 
 *Por que escolher o Zenpress em vez de outros suplementos*? 
 
@@ -1065,7 +1065,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Prostenvita; Mensagem 1:
+  texto: `### Prostenvita; Mensagem 1:
 
 *O que é o Prostenvita*? 
 
@@ -1075,7 +1075,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Prostenvita; Mensagem 2:
+  texto: `### Prostenvita; Mensagem 2:
 
 *Você conhece os benefícios do Prostenvita*?
 
@@ -1089,7 +1089,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Prostenvita; Mensagem 3:
+  texto: `### Prostenvita; Mensagem 3:
 
 *Por que escolher o Prostenvita em vez de outros suplementos*? 
 
@@ -1099,7 +1099,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Energivita Q10; Mensagem 1:
+  texto: `### Energivita Q10; Mensagem 1:
 
 *O que é o Energivita Q10*? 
 
@@ -1109,7 +1109,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Energivita Q10; Mensagem 2:
+  texto: `### Energivita Q10; Mensagem 2:
 
 *Você conhece os benefícios do Energivita Q10*?
 
@@ -1127,7 +1127,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `Energivita Q10; Mensagem 3:
+  texto: `### Energivita Q10; Mensagem 3:
 
 *Por que escolher o Energivita Q10 em vez de outros suplementos*? 
 
@@ -1137,7 +1137,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `VITA MULHER 50+; Msg 1
+  texto: `### VITA MULHER 50+; Msg 1
 
 *O que é o suplemento VITA MULHER 50+?*
 
@@ -1149,7 +1149,7 @@ Clique no link abaixo e fale com a consultora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `VITA MULHER 50+; Msg 2
+  texto: `### VITA MULHER 50+; Msg 2
 
 *Quais os principais benefícios do suplemento VITA MULHER 50+:*
 
@@ -1163,7 +1163,7 @@ Clique no link abaixo e fale com a consultora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `VITA MULHER 50+; Msg 3
+  texto: `### VITA MULHER 50+; Msg 3
 
 Olha o que o Vita Mulher 50+ pode fazer por você?
 
@@ -1184,7 +1184,7 @@ Clique no link abaixo e fale com a nossa consultora de saúde para garantir agor
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `VITA MULHER 50+; Msg 4
+  texto: `### VITA MULHER 50+; Msg 4
 
 *Você sabia que o Vita Mulher 50+ pode te ajudar a se livrar dos sintomas da Menopausa?*
 
@@ -1204,7 +1204,7 @@ Clique no link abaixo e fale com a nossa consultora de saúde para garantir agor
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `ARTIVITA PLUS; Mensagem 1:
+  texto: `### ARTIVITA PLUS; Mensagem 1:
 
 *Você sabia que o Artivita Plus pode ser o seu aliado para uma vida mais ativa e saudável?*
 
@@ -1222,7 +1222,7 @@ Clique no link abaixo e fale com a consultora. 👇🏻`
   },
   {
     categoria: "Dona Vita",
-    texto: `Mensagem padrão:
+    texto: `### Mensagem padrão:
 
 Olá, tudo bem? Eu sou a [seu nome]. Nosso suporte é exclusivo pelo WhatsApp, lá todas as conversas ficam registradas...
 
@@ -1230,7 +1230,7 @@ Clique no link para ser atendido agora: https://lp.vita-science.com/AtendimentoV
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `ARTIVITA PLUS; Mensagem 2:
+  texto: `### ARTIVITA PLUS; Mensagem 2:
 
 *_Quais os principais benefícios do suplemento ARTIVITA PLUS:_*
 
@@ -1244,7 +1244,7 @@ Clique no link abaixo e fale com a consultora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `ARTIVITA PLUS; Mensagem 3:
+  texto: `### ARTIVITA PLUS; Mensagem 3:
 
 *O que é o Artivita Plus?*
 O Artivita Plus é um suplemento alimentar em cápsulas formulado com ingredientes de alta qualidade, como colágeno tipo II, ácido hialurônico, metilsulfonilmetano (MSM), vitamina D e K2 e minerais essenciais, que atuam em sinergia para reduzir inflamações e dores articulares, promovendo conforto e mobilidade.
@@ -1253,7 +1253,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `VITA PULSE+; Mensagem 1: 
+  texto: `### VITA PULSE+; Mensagem 1: 
 
 1.O que é o suplemento VITAPULSE+?
 
@@ -1262,7 +1262,7 @@ Clique no link abaixo e fale com a vendedora.👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `VITA PULSE+; Mensagem 2:
+  texto: `### VITA PULSE+; Mensagem 2:
 
 Você conhece os benefícios do Vita Pulse+?
 ✅ Fortalecimento dos ossos;
@@ -1277,7 +1277,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "Msg de interação Suplementos",
-  texto: `VITA PULSE+; Mensagem 3:
+  texto: `### VITA PULSE+; Mensagem 3:
 
 Você sabia que o Vita Pulse+ pode ser o seu aliado para mais energia e vitalidade no dia a dia?
 O Vita Pulse+ é um suplemento cuidadosamente desenvolvido para promover a saúde do corpo como um todo. Sua formulação combina ingredientes de alta qualidade, como vitaminas D, K, e do complexo B, coenzima Q10, carnitina e magnésio, que atuam em sinergia para fortalecer os ossos, regular o metabolismo energético e melhorar a saúde cardiovascular.
@@ -1294,7 +1294,7 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
   },
   {
   categoria: "PV Vitascience",
-  texto: `Página para consultas 
+  texto: `### Página para consultas 
 
 <a href="https://vitascience.com/" target="_blank">
 Clique aqui para acessar o site oficial da Vitascience
@@ -1359,7 +1359,12 @@ function renderFaqs(categoria, query) {
 }
 
 function copyText(elementId) {
-    const text = document.getElementById(elementId)?.textContent || '';
+    const fullText = document.getElementById(elementId)?.textContent || '';
+    // Remove a linha que começa com ###
+    const lines = fullText.split('\n');
+    const filtered = lines.filter(line => !line.startsWith('###'));
+    const text = filtered.join('\n');
+
     navigator.clipboard.writeText(text).then(() => {
         alert("Mensagem copiada!");
     });
