@@ -1307,8 +1307,8 @@ Clique aqui para acessar o site oficial da Vitascience
 🎉 Parabéns por essa conquista incrível!  
 Você deu um passo importantíssimo para viver com muito mais saúde, disposição e qualidade de vida.  
 Pode contar com nosso apoio nessa jornada! 💚✨`
-},
-{
+ },
+ {
   categoria: "Parabéns",
   texto: `### Mensagem 2:
 
@@ -1316,8 +1316,8 @@ Pode contar com nosso apoio nessa jornada! 💚✨`
 Você tomou uma ótima decisão ao investir no seu bem-estar.  
 Temos certeza de que essa escolha trará resultados maravilhosos para sua saúde e vitalidade.  
 Conte sempre conosco! 💪🌟`
-},
-{
+ },
+ {
   categoria: "Parabéns",
   texto: `### Mensagem 3:
 
@@ -1325,16 +1325,16 @@ Conte sempre conosco! 💪🌟`
 Ficamos muito felizes por você dar esse passo tão importante.  
 Estamos aqui para acompanhar cada etapa dessa transformação rumo a mais vitalidade e energia.  
 Vamos juntos! 🚀💚`
-},
-{
+ },
+ {
   categoria: "Parabéns",
   texto: `### Mensagem 4:
 
 🎉 Parabéns pela excelente decisão!  
 Cada passo conta, e hoje você deu um dos mais importantes para ter uma vida mais saudável, equilibrada e cheia de energia.  
 Estamos muito felizes por fazer parte da sua jornada! 🌟😊`
-},
-{
+ },
+ {
   categoria: "Parabéns",
   texto: `### Mensagem 5:
 
@@ -1342,8 +1342,8 @@ Estamos muito felizes por fazer parte da sua jornada! 🌟😊`
 Você acabou de dar um passo valioso rumo a uma vida com mais saúde, vitalidade e disposição.  
 Saiba que estamos ao seu lado, prontos para apoiar você em cada fase desse processo.  
 Seja muito bem-vinda(o)! 💚🙌`
-},
-{
+ },
+ {
   categoria: "Encerramento",
   texto: `### Mensagem de encerramento:
 
@@ -1359,8 +1359,8 @@ https://wa.me/5541991056104
 
 Até mais tarde!  
 Equipe Vitascience 💚`
-},
-{
+ },
+ {
   categoria: "Objeções",
   texto: `### Resposta (está caro - suplementos):
 
@@ -1372,8 +1372,8 @@ Além disso, dependendo do kit escolhido, você também garante acesso a bônus 
 Vai ser ótimo ter você com a gente em um dos nossos pacotes! 😍💚
 
 Se precisar de mais alguma informação, estou aqui pra te ajudar.`
-},
-{
+ },
+ {
   categoria: "Objeções",
   texto: `### Prazo de entrega e rastreio:
 
@@ -1382,8 +1382,8 @@ Os envios são feitos via Correios ou transportadora.
 
 Assim que seu pedido for enviado, você receberá o código de rastreio diretamente no e-mail cadastrado no momento da compra.  
 Fique tranquila(o), estaremos acompanhando tudo de pertinho pra garantir que sua encomenda chegue o quanto antes! 📦✅`
-},
-{
+ },
+ {
   categoria: "Objeções",
   texto: `### Reclamou da demora:
 
@@ -1393,8 +1393,8 @@ Reforçamos que todas as mensagens serão respondidas ainda hoje.
 Caso alguém precise de atendimento prioritário, pedimos que chamem no privado ou mencionem a @davendedoraresponsávelpelogrupo aqui no grupo.
 
 Agradecemos a compreensão de todos. ✅`
-},
-{
+ },
+ {
   categoria: "Objeções",
   texto: `### Resposta (Entrega no exterior):
 
@@ -1405,8 +1405,8 @@ Assim que a pessoa receber o pedido, pode enviá-lo diretamente para você no pa
 Dessa forma, você não perde a oportunidade de ter mais saúde e bem-estar com nossos suplementos. 💚✨
 
 Se precisar de mais ajuda, estou à disposição!`
-},
-{
+ },
+ {
   categoria: "Privado",
   texto: `### Liberações de brindes:
 
@@ -1419,8 +1419,8 @@ Basta clicar no link abaixo que você será direcionada(o) diretamente ao nosso 
 
 Nosso atendimento é de segunda a sexta, das 8h às 18h30.  
 Qualquer outra dúvida, estou à disposição! 💚✨`
-},
-{
+ },
+ {
   categoria: "Privado",
   texto: `### Cliente reclamando no grupo:
 
@@ -1433,8 +1433,8 @@ Olá, [nome]! Vi que você está com uma dúvida e vou te chamar no privado agor
 Oi, [nome]! Tudo bem? Vim te chamar aqui no privado porque vi sua mensagem lá no grupo.  
 Quero entender melhor o que houve pra poder te ajudar da forma mais rápida e assertiva possível.  
 Pode me contar com calma, tá? Estou à disposição! 💚`
-},
-{
+ },
+ {
   categoria: "Objeções",
   texto: `### Está caro (Código da Vitalidade):
 
@@ -1443,64 +1443,64 @@ O Código da Vitalidade é um programa de acompanhamento com o Dr. Dayan, equipe
 Além disso você ganha acesso a vários bônus digitais que irão te auxiliar a melhorar ainda mais a sua saúde e fazer melhores escolhas para a sua vida daqui por diante.
 
 Espero que você possa estar com a gente em um dos nossos pacotes. 😍`
-},
-{
+ },
+ {
   categoria: "Links/Planilha",
   texto: `### Planilha de links do grupo:
 
 <a href="https://docs.google.com/spreadsheets/d/1eQ0dRMznRKni4sXx35HTfVm37xL1dvBzVMjX-FAJaQI/edit?gid=749657477#gid=749657477" target="_blank">
 Clique aqui para acessar a planilha com os links do grupo.
 </a>`
-},
-{
+ },
+ {
   categoria: "Links/Planilha",
   texto: `### FAQs de todos os Suplementos:
 
 <a href="https://docs.google.com/document/d/1yKNElQyAefDAURE-6qcvd-vv1XrDIz8cAPtYcZPln6c/edit?tab=t.0#heading=h.qy36qg7rpria" target="_blank">
 Clique aqui para acessar a pasta com todas as FAQs dos suplementos.
 </a>`
-},
-{
+ },
+ {
   categoria: "Links/Planilha",
   texto: `### Mensagens de interação do COD:
 
 <a href="https://docs.google.com/document/d/1Tm2BpA4kVlVqDaBRm2FEywb-Boe9A8W5cgcAAgaRCbo/edit?usp=sharing" target="_blank">
 Clique aqui para acessar as mensagens de interação do COD ⤵️
 </a>`
-},
-{
+ },
+ {
   categoria: "Links/Planilha",
   texto: `### Mensagens de interação dos Suplementos:
 
 <a href="https://docs.google.com/document/d/1S5er8vwTSjtgAuAKTVEtXn4lfSckoEzikKw3p1mnjAM/edit?usp=sharing" target="_blank">
 Clique aqui para acessar as mensagens de interação dos suplementos ⤵️
 </a>`
-},
-{
+ },
+ {
   categoria: "Links/Planilha",
   texto: `### Tabelas nutricionais dos suplementos:
 
 <a href="https://drive.google.com/drive/folders/1j28_vopKh0edqtpH-qStURlW7bCMGws0?usp=drive_link" target="_blank">
 Clique aqui para acessar as tabelas nutricionais ⤵️
 </a>`
-},
-{
+ },
+ {
   categoria: "Links/Planilha",
   texto: `### Imagens dos suplementos:
 
 <a href="https://drive.google.com/drive/folders/1nONYS-533uCEQmJIauP2LlDZ5NdDDH0C?usp=sharing" target="_blank">
 Clique aqui para acessar as imagens dos suplementos ⤵️
 </a>`
-},
-{
+ },
+ {
   categoria: "Links/Planilha",
   texto: `### Planilha de reclamação sobre rastreios:
 
 <a href="https://docs.google.com/spreadsheets/d/1FjVFFTkSq334Ie6XlVNh-Vc1FJ6GVU7g3-1lTQkfeGA/edit?gid=218786619#gid=218786619" target="_blank">
 Clique aqui para acessar a planilha de reclamações ⤵️
 </a>`
-},
-{
+ },
+ {
   categoria: "Formas de pagamento",
   texto: `### Formas de pagamento:
 
@@ -1517,8 +1517,8 @@ Somente aqui no Grupo VIP estamos com uma campanha especial de desconto, válida
 É a sua chance de garantir seu kit com valor promocional exclusivo e ainda receber bônus digitais que vão potencializar seus resultados! 💚✨
 
 Se precisar de ajuda para finalizar o pedido, estou aqui pra te auxiliar.`
-},
-];
+ },
+ ];
 
 
 const faqContainer = document.getElementById('faqContainer');
