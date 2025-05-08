@@ -1520,7 +1520,6 @@ Se precisar de ajuda para finalizar o pedido, estou aqui pra te auxiliar.`
  },
  ];
 
-
 const faqContainer = document.getElementById('faqContainer');
 const searchInput = document.getElementById('searchInput');
 const filterButtons = document.getElementById('filterButtons');
@@ -1539,9 +1538,13 @@ categorias.forEach(categoria => {
     filterButtons.appendChild(btn);
 });
 
+// BUSCA GLOBAL — força seleção em "Todas"
 searchInput.addEventListener("input", () => {
-    const cat = document.querySelector(".filters button.active").textContent;
-    renderFaqs(cat, searchInput.value.toLowerCase());
+    document.querySelectorAll(".filters button").forEach(b => b.classList.remove("active"));
+    const todasBtn = Array.from(document.querySelectorAll(".filters button")).find(b => b.textContent === "Todas");
+    if (todasBtn) todasBtn.classList.add("active");
+
+    renderFaqs("Todas", searchInput.value.toLowerCase());
 });
 
 function renderFaqs(categoria, query) {
@@ -1562,7 +1565,7 @@ function renderFaqs(categoria, query) {
             const messageDiv = document.createElement("div");
             messageDiv.className = "faq-text";
             messageDiv.id = messageId;
-            messageDiv.innerHTML = f.texto;
+            messageDiv.innerHTML = f.texto; // Links funcionam aqui
 
             const copyBtn = document.createElement("button");
             copyBtn.className = "copy-button";
@@ -1577,9 +1580,8 @@ function renderFaqs(categoria, query) {
 }
 
 function copyText(elementId) {
-    const fullText = document.getElementById(elementId)?.textContent || '';
-    // Corta tudo até o primeiro ":" depois de ###
-    const cleaned = fullText.replace(/###.*?:\s*/s, '');
+    const fullText = document.getElementById(elementId)?.innerText || '';
+    const cleaned = fullText.replace(/###.*?:\s*/s, ''); // Remove título (### Título:)
     navigator.clipboard.writeText(cleaned.trim()).then(() => {
         alert("Mensagem copiada!");
     });
