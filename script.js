@@ -1378,6 +1378,64 @@ Somente aqui no Grupo VIP estamos com uma campanha especial de desconto, válida
 
 Se precisar de ajuda para finalizar o pedido, estou aqui pra te auxiliar.`
  },
+ {
+  categoria: "Suporte",
+  texto: `### Mensagem padrão (Suporte Geral):
+
+Olá, tudo bem? 😊  
+Eu sou a [seu nome] e estou aqui pra te ajudar!
+
+Nosso suporte funciona exclusivamente pelo WhatsApp.  
+Optamos por esse canal justamente para garantir mais segurança, registrar todas as conversas e permitir um melhor acompanhamento da sua solicitação.
+
+Ao acessar, nossa assistente virtual vai colher alguns dados iniciais e, se necessário, te encaminhar diretamente para uma analista especializada, tá bom?
+
+Clique no link abaixo e você será atendido imediatamente:
+
+👉 https://lp.vita-science.com/AtendimentoVITA2.0
+
+Estamos à disposição! 💚✨`
+},
+{
+  categoria: "Suporte",
+  texto: `### Cliente crítico (ameaça processo, RA, reclamações severas):
+
+Olá, tudo bem? 😊  
+Eu sou a [seu nome] e quero resolver isso da melhor forma pra você!
+
+Nosso suporte é exclusivo pelo WhatsApp, justamente para registrar todas as conversas e garantir mais segurança no acompanhamento do seu pedido.
+
+E como você nos procurou por aqui, vou solicitar prioridade no seu atendimento, tá bom?
+
+Ao acessar, basta enviar a seguinte mensagem: "Vim do comercial".  
+Dessa forma, seu atendimento será imediatamente direcionado para nossa analista especializada, que cuidará do seu caso com máxima agilidade e atenção.
+
+Clique no link abaixo para ser atendido agora mesmo:
+
+👉 https://lp.vita-science.com/AtendimentoVITA2.0
+
+Conte comigo! 💚✨`
+},
+{
+  categoria: "Suporte",
+  texto: `### Cliente que reclamou que não foi atendido (problema técnico com chip):
+
+Olá, tudo bem? 😊  
+Eu sou a [seu nome] e primeiramente quero pedir desculpas pelo transtorno.
+
+Realmente tivemos um bloqueio temporário no nosso número e, por isso, não conseguimos te atender antes. Mas já resolvemos e nosso canal está novamente ativo.
+
+Nosso suporte funciona exclusivamente pelo WhatsApp, onde todas as conversas ficam registradas para maior segurança e acompanhamento detalhado.
+
+Vou solicitar prioridade no seu atendimento agora mesmo, tá bom?  
+Por favor, ao acessar, envie a mensagem: "Vim do Comercial", e sua solicitação será encaminhada diretamente para a nossa analista responsável.
+
+Clique no link abaixo pra atendimento imediato:
+
+👉 https://lp.vita-science.com/AtendimentoVITA2.0
+
+Obrigada pela compreensão e conte conosco! 💚✨`
+ }
  ];
 
 const faqContainer = document.getElementById('faqContainer');
