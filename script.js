@@ -1299,7 +1299,225 @@ Clique no link abaixo e fale com a vendedora. 👇🏻`
 <a href="https://vitascience.com/" target="_blank">
 Clique aqui para acessar o site oficial da Vitascience
 </a>`
-}
+ },
+ {
+  categoria: "Parabéns",
+  texto: `### Mensagem 1:
+
+🎉 Parabéns por essa conquista incrível!  
+Você deu um passo importantíssimo para viver com muito mais saúde, disposição e qualidade de vida.  
+Pode contar com nosso apoio nessa jornada! 💚✨`
+},
+{
+  categoria: "Parabéns",
+  texto: `### Mensagem 2:
+
+🎉 Que alegria! Parabéns pela sua compra!  
+Você tomou uma ótima decisão ao investir no seu bem-estar.  
+Temos certeza de que essa escolha trará resultados maravilhosos para sua saúde e vitalidade.  
+Conte sempre conosco! 💪🌟`
+},
+{
+  categoria: "Parabéns",
+  texto: `### Mensagem 3:
+
+🎉 Parabéns por priorizar sua saúde e bem-estar!  
+Ficamos muito felizes por você dar esse passo tão importante.  
+Estamos aqui para acompanhar cada etapa dessa transformação rumo a mais vitalidade e energia.  
+Vamos juntos! 🚀💚`
+},
+{
+  categoria: "Parabéns",
+  texto: `### Mensagem 4:
+
+🎉 Parabéns pela excelente decisão!  
+Cada passo conta, e hoje você deu um dos mais importantes para ter uma vida mais saudável, equilibrada e cheia de energia.  
+Estamos muito felizes por fazer parte da sua jornada! 🌟😊`
+},
+{
+  categoria: "Parabéns",
+  texto: `### Mensagem 5:
+
+🎉 Parabéns pela compra!  
+Você acabou de dar um passo valioso rumo a uma vida com mais saúde, vitalidade e disposição.  
+Saiba que estamos ao seu lado, prontos para apoiar você em cada fase desse processo.  
+Seja muito bem-vinda(o)! 💚🙌`
+},
+{
+  categoria: "Encerramento",
+  texto: `### Mensagem de encerramento:
+
+Pessoal, chegou o momento de fecharmos o grupo. 😊  
+Muito obrigada pela participação de cada um de vocês!
+
+Voltaremos às 19h, combinado?
+
+Se precisar de qualquer ajuda nesse período, fique à vontade para chamar diretamente a consultora de saúde da Equipe do Dr. Dayan Siebra responsável pelo grupo clicando no link abaixo:
+
+👉 
+https://wa.me/5541991056104
+
+Até mais tarde!  
+Equipe Vitascience 💚`
+},
+{
+  categoria: "Objeções",
+  texto: `### Resposta (está caro - suplementos):
+
+Entendo você! 😊  
+Nós temos diferentes opções de pacotes justamente pra atender diversos tipos de orçamento.  
+Nossos suplementos são desenvolvidos com matéria-prima 100% natural, sempre da melhor qualidade.  
+Além disso, dependendo do kit escolhido, você também garante acesso a bônus digitais exclusivos que vão potencializar ainda mais os seus resultados e benefícios pra saúde.
+
+Vai ser ótimo ter você com a gente em um dos nossos pacotes! 😍💚
+
+Se precisar de mais alguma informação, estou aqui pra te ajudar.`
+},
+{
+  categoria: "Objeções",
+  texto: `### Prazo de entrega e rastreio:
+
+O prazo de entrega é de 5 a 25 dias úteis, variando conforme sua localidade.  
+Os envios são feitos via Correios ou transportadora.
+
+Assim que seu pedido for enviado, você receberá o código de rastreio diretamente no e-mail cadastrado no momento da compra.  
+Fique tranquila(o), estaremos acompanhando tudo de pertinho pra garantir que sua encomenda chegue o quanto antes! 📦✅`
+},
+{
+  categoria: "Objeções",
+  texto: `### Reclamou da demora:
+
+Olá, pessoal. Devido ao alto volume de atendimentos, nosso tempo de resposta está um pouco acima do normal.  
+Reforçamos que todas as mensagens serão respondidas ainda hoje.
+
+Caso alguém precise de atendimento prioritário, pedimos que chamem no privado ou mencionem a @davendedoraresponsávelpelogrupo aqui no grupo.
+
+Agradecemos a compreensão de todos. ✅`
+},
+{
+  categoria: "Objeções",
+  texto: `### Resposta (Entrega no exterior):
+
+Oi, tudo bem? 😊  
+Por enquanto ainda não realizamos entregas no exterior, mas você pode garantir seu kit tranquilamente solicitando a entrega no endereço de um familiar ou amigo aqui no Brasil.  
+Assim que a pessoa receber o pedido, pode enviá-lo diretamente para você no país onde reside.
+
+Dessa forma, você não perde a oportunidade de ter mais saúde e bem-estar com nossos suplementos. 💚✨
+
+Se precisar de mais ajuda, estou à disposição!`
+},
+{
+  categoria: "Privado",
+  texto: `### Liberações de brindes:
+
+Oi, tudo bem? 😊  
+Meu nome é Micaela, sou consultora da Vitascience, e estou aqui pra te ajudar na liberação dos seus brindes digitais!
+
+Basta clicar no link abaixo que você será direcionada(o) diretamente ao nosso atendimento via WhatsApp, onde nossa equipe vai resolver isso rapidinho pra você:
+
+👉 https://lp.vita-science.com/AtendimentoVITA2.0
+
+Nosso atendimento é de segunda a sexta, das 8h às 18h30.  
+Qualquer outra dúvida, estou à disposição! 💚✨`
+},
+{
+  categoria: "Privado",
+  texto: `### Cliente reclamando no grupo:
+
+### No grupo:  
+Olá, [nome]! Vi que você está com uma dúvida e vou te chamar no privado agora mesmo pra entender melhor o que aconteceu e te orientar direitinho, tá bom? Já te chamo por lá! 💬
+
+---
+
+### No privado:  
+Oi, [nome]! Tudo bem? Vim te chamar aqui no privado porque vi sua mensagem lá no grupo.  
+Quero entender melhor o que houve pra poder te ajudar da forma mais rápida e assertiva possível.  
+Pode me contar com calma, tá? Estou à disposição! 💚`
+},
+{
+  categoria: "Objeções",
+  texto: `### Está caro (Código da Vitalidade):
+
+Entendo, temos diversas formas de pagamento, justamente para caber em todo tipo de orçamento.  
+O Código da Vitalidade é um programa de acompanhamento com o Dr. Dayan, equipe Vitascience e vários outros profissionais, e é exclusivo para as pessoas que já passaram dos seus 50, 60, ou até mais de 70 anos, que queiram viver com autonomia, saúde, disposição, jovialidade e vitalidade.  
+Além disso você ganha acesso a vários bônus digitais que irão te auxiliar a melhorar ainda mais a sua saúde e fazer melhores escolhas para a sua vida daqui por diante.
+
+Espero que você possa estar com a gente em um dos nossos pacotes. 😍`
+},
+{
+  categoria: "Links/Planilha",
+  texto: `### Planilha de links do grupo:
+
+<a href="https://docs.google.com/spreadsheets/d/1eQ0dRMznRKni4sXx35HTfVm37xL1dvBzVMjX-FAJaQI/edit?gid=749657477#gid=749657477" target="_blank">
+Clique aqui para acessar a planilha com os links do grupo.
+</a>`
+},
+{
+  categoria: "Links/Planilha",
+  texto: `### FAQs de todos os Suplementos:
+
+<a href="https://docs.google.com/document/d/1yKNElQyAefDAURE-6qcvd-vv1XrDIz8cAPtYcZPln6c/edit?tab=t.0#heading=h.qy36qg7rpria" target="_blank">
+Clique aqui para acessar a pasta com todas as FAQs dos suplementos.
+</a>`
+},
+{
+  categoria: "Links/Planilha",
+  texto: `### Mensagens de interação do COD:
+
+<a href="https://docs.google.com/document/d/1Tm2BpA4kVlVqDaBRm2FEywb-Boe9A8W5cgcAAgaRCbo/edit?usp=sharing" target="_blank">
+Clique aqui para acessar as mensagens de interação do COD ⤵️
+</a>`
+},
+{
+  categoria: "Links/Planilha",
+  texto: `### Mensagens de interação dos Suplementos:
+
+<a href="https://docs.google.com/document/d/1S5er8vwTSjtgAuAKTVEtXn4lfSckoEzikKw3p1mnjAM/edit?usp=sharing" target="_blank">
+Clique aqui para acessar as mensagens de interação dos suplementos ⤵️
+</a>`
+},
+{
+  categoria: "Links/Planilha",
+  texto: `### Tabelas nutricionais dos suplementos:
+
+<a href="https://drive.google.com/drive/folders/1j28_vopKh0edqtpH-qStURlW7bCMGws0?usp=drive_link" target="_blank">
+Clique aqui para acessar as tabelas nutricionais ⤵️
+</a>`
+},
+{
+  categoria: "Links/Planilha",
+  texto: `### Imagens dos suplementos:
+
+<a href="https://drive.google.com/drive/folders/1nONYS-533uCEQmJIauP2LlDZ5NdDDH0C?usp=sharing" target="_blank">
+Clique aqui para acessar as imagens dos suplementos ⤵️
+</a>`
+},
+{
+  categoria: "Links/Planilha",
+  texto: `### Planilha de reclamação sobre rastreios:
+
+<a href="https://docs.google.com/spreadsheets/d/1FjVFFTkSq334Ie6XlVNh-Vc1FJ6GVU7g3-1lTQkfeGA/edit?gid=218786619#gid=218786619" target="_blank">
+Clique aqui para acessar a planilha de reclamações ⤵️
+</a>`
+},
+{
+  categoria: "Formas de pagamento",
+  texto: `### Formas de pagamento:
+
+Você pode realizar sua compra com total segurança e flexibilidade. As formas de pagamento disponíveis são:
+
+Cartão de crédito: até 12x sem juros  
+Pix à vista: confirmação imediata e valor promocional  
+Boleto bancário: com vencimento de até 1 dia útil (liberação após compensação)
+
+O prazo de entrega varia entre 5 a 25 dias úteis, de acordo com a sua localidade.  
+Os envios são feitos via Correios ou transportadora, e o código de rastreio será enviado por e-mail assim que o pedido for despachado.
+
+Somente aqui no Grupo VIP estamos com uma campanha especial de desconto, válida por tempo limitado!  
+É a sua chance de garantir seu kit com valor promocional exclusivo e ainda receber bônus digitais que vão potencializar seus resultados! 💚✨
+
+Se precisar de ajuda para finalizar o pedido, estou aqui pra te auxiliar.`
+},
 ];
 
 
