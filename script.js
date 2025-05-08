@@ -1562,7 +1562,7 @@ function renderFaqs(categoria, query) {
             const messageDiv = document.createElement("div");
             messageDiv.className = "faq-text";
             messageDiv.id = messageId;
-            messageDiv.textContent = f.texto;
+            messageDiv.innerHTML = f.texto;
 
             const copyBtn = document.createElement("button");
             copyBtn.className = "copy-button";
